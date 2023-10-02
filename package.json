@@ -1,5 +1,6 @@
 {
   "name": "star_wars_react",
+  "homepage": "https://jakovlevma.github.io/star_wars_react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
